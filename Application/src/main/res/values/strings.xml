@@ -27,6 +27,6 @@ limitations under the License.
     <string name="jetpackCheckboxLabel">Enable Jetpack</string>
     <string name="hyperspaceCheckboxLabel">Enable Hyperspace Engines</string>
     <string name="imagesAndTextLabel">Images &amp; Text</string>
-    <string name="temperature">53 °F</string>
+    <string name="temperature">38 C°</string>
     <string name="customViewLabel">Custom View</string>
 </resources>
